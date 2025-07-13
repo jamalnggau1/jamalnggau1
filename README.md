@@ -1,7 +1,8 @@
-# Hi there! 👋 I'm **Jamal Nggau**  
-![Profile views](https://gpvc.arturio.dev/jamalnggau1)
+# Hi there! 👋 I'm Jamal Nggau
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+[![GitHub Streak](https://streak-stats.demolab.com?user=jamalnggau1&theme=radical&hide_border=true)](https://github.com/jamalnggau1)
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coding Dino" width="400"/>
 
 ## 🚀 About Me
 I'm a passionate self-taught developer who loves exploring technology, coding, and building meaningful projects.  
@@ -14,13 +15,17 @@ Currently diving deep into **open source**, **web development**, and **automatio
 
 ---
 
-## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## 🐙 GitHub Stats
+
+[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamalnggau1&theme=radical)](https://github.com/jamalnggau1)
+
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamalnggau1&theme=radical)](https://github.com/jamalnggau1)
+[![Most Used](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jamalnggau1&theme=radical)](https://github.com/jamalnggau1)
+
+[![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamalnggau1&theme=radical)](https://github.com/jamalnggau1)
+[![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamalnggau1&theme=radical&utcOffset=8)](https://github.com/jamalnggau1)
+
+
 
 ---
 
