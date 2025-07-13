@@ -11,7 +11,7 @@ Currently diving deep into **open source**, **web development**, and **automatio
 - 🔭 I’m currently working on: Web-based projects & automation tools  
 - 🌱 I’m learning: Python, JavaScript, GitHub Actions  
 - 💡 Interests: Crypto, bots, microservices, and clean UI/UX  
-- 📫 📬 How to reach me: [On Telegram](https://t.me/jamalnggau)
+- 📫 How to reach me: [On Telegram](https://t.me/jamalnggau)
 
 ---
 
